@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+google-cloud-texttospeech==2.2.0
+pychromecast>=7.5.1
+python-dotenv
+simple_parsing
+APScheduler>=2.1.2
