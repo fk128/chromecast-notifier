@@ -5,3 +5,6 @@ pychromecast>=7.5.1
 python-dotenv
 simple_parsing
 APScheduler>=2.1.2
+jinja2
+python-multipart
+aiofiles
